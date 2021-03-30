@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^1.0.0-rc.8",
+    "@chakra-ui/icons": "^1.0.0-rc.8",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "framer-motion": "^3.9.1",
+    "next": "10.0.9",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-infinite-scroller": "^1.2.4",
+    "react-material-ui-carousel": "^2.2.2",
+    "react-simple-image-slider": "^2.0.3",
+    "subscriptions-transport-ws": "^0.9.18",
+    "theme-ui": "^0.3.5"
+  }
+}
